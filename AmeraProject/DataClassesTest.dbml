@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Test2" Class="DataClassesTestDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Test2;Persist Security Info=True;User ID=sa" SettingsObjectName="AmeraProject.Properties.Settings" SettingsPropertyName="Test2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Classes" Member="Classes">
+    <Type Name="Class">
+      <Column Name="ClassId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ClassDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ClassIsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ClassesFlag" Member="ClassesFlags">
+    <Type Name="ClassesFlag">
+      <Column Name="ClassesFlagId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ClassesFlagDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ClassesFlagIsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DocType" Member="DocTypes">
+    <Type Name="DocType">
+      <Column Name="DocTypeId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DocTypeName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ItemStore" Member="ItemStores">
+    <Type Name="ItemStore">
+      <Column Name="ItemsStoreId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ItemsId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ItemQuantityOnHand" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="ItemSellPrice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="ItemBuyPrice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="StoreId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Job" Member="Jobs">
+    <Type Name="Job">
+      <Column Name="JobId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="JobDese" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="JobIsactive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Store" Member="Stores">
+    <Type Name="Store">
+      <Column Name="StoreId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Storename" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StoreAcative" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="StudentId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StudentAddress" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StudentIdeinty" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StudentIsAcive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudentSubject" Member="StudentSubjects">
+    <Type Name="StudentSubject">
+      <Column Name="StudentSubjectId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="SubjectId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subjct" Member="Subjcts">
+    <Type Name="Subjct">
+      <Column Name="SubjectId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SubjectDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SubjectIsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TeacherStudentClassess" Member="TeacherStudentClassesses">
+    <Type Name="TeacherStudentClassess">
+      <Column Name="TeacherStudentClassessId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TeatacherId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="ClassId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="StudentId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="ClassesFlagId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teatacher" Member="Teatachers">
+    <Type Name="Teatacher">
+      <Column Name="TeatacherId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TeatacherMame" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="TeacherBirthdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SubjectId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="TeacherSalary" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="Teacherphone" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="TeacherIsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="JobId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.items" Member="items">
+    <Type Name="item">
+      <Column Name="itemId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="itemdesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="itemsllprice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="itembuypirice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="itemactive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Barcode" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoiceMaster" Member="InvoiceMasters">
+    <Type Name="InvoiceMaster">
+      <Column Name="InvoiceId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="tetchrId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NumberOfInstallMents" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StoreId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InvoiceNetValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceNetValueAfterDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SubmittedValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="tregary_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EmployeeId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MainDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SeasoneId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DocTypeId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ClassesFlagId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TeatacherId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastFinalTotalDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="FinalInvoiceWinValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceWinValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceNetValue2" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoiceMasterDetail" Member="InvoiceMasterDetails">
+    <Type Name="InvoiceMasterDetail">
+      <Column Name="InvoiceDetailId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ItemPrice" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="ItemId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="Total" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.InsertIntoClacces" Method="InsertIntoClacces">
+    <Parameter Name="ClassDesc" Parameter="classDesc" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="ClassIsActive" Parameter="classIsActive" Type="System.Boolean" DbType="Bit" />
+    <ElementType Name="InsertIntoClaccesResult">
+      <Column Name="" Member="Column1" Type="System.Decimal" DbType="Decimal(38,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.UpdateClasses" Method="UpdateClasses">
+    <Parameter Name="ClassId" Parameter="classId" Type="System.Int64" DbType="BigInt" />
+    <Parameter Name="ClassDesc" Parameter="classDesc" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="ClassIsActive" Parameter="classIsActive" Type="System.Boolean" DbType="Bit" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertStudentSubject" Method="InsertStudentSubject">
+    <Parameter Name="StudentId" Parameter="studentId" Type="System.Int64" DbType="BigInt" />
+    <Parameter Name="SubjectId" Parameter="subjectId" Type="System.Int64" DbType="BigInt" />
+    <ElementType Name="InsertStudentSubjectResult">
+      <Column Name="" Member="Column1" Type="System.Decimal" DbType="Decimal(38,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.InsertInDetail" Method="InsertInDetail">
+    <Parameter Name="InvoiceId" Parameter="invoiceId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ItemPrice" Parameter="itemPrice" Type="System.Decimal" DbType="Decimal(18,2)" />
+    <Parameter Name="ItemId" Parameter="itemId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Quantity" Parameter="quantity" Type="System.Decimal" DbType="Decimal(18,2)" />
+    <Parameter Name="Total" Parameter="total" Type="System.Decimal" DbType="Decimal(18,2)" />
+    <ElementType Name="InsertInDetailResult">
+      <Column Name="" Member="Column1" Type="System.Decimal" DbType="Decimal(38,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

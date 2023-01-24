@@ -1,0 +1,1304 @@
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.New.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+C:\Users\SmartOne4\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.New.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.New.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+D:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.coiass.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.RibbonForm2.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+C:\Users\Amera\Desktop\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.coiass.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.subjectsform.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classform.resources
+C:\Users\Amera\Desktop\New folder\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classesflagform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classesflagform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.subjectsform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.MainForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.TeacherForm.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentSubjectIdform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.teacherstudentclassesform.resources
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.InvoiceForm.resources
+D:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+D:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+D:\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classesflagform.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.InvoiceForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.RibbonForm3.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentSubjectIdform.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.TeacherForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.teacherstudentclassesform.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classform.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.MainForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.subjectsform.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+F:\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+C:\Users\Amera\Desktop\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+C:\Users\Amera\Desktop\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+C:\Users\Amera\Desktop\amira wark\amirabroject\AmeraProject1\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+F:\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v19.2.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojResolveAssemblyReference.cache
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classesflagform.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.InvoiceForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentSubjectIdform.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.TeacherForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.teacherstudentclassesform.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classform.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.MainForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.subjectsform.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.Cache
+F:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe.config
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.exe
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\AmeraProject.pdb
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Dialogs.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Images.v21.2.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Mvvm.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDialogs.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Dialogs.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Dialogs.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Dialogs.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Dialogs.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csprojAssemblyReference.cache
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.aammiirraa.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classesflagform.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.InvoiceForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentSubjectIdform.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.TeacherForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.teacherstudentclassesform.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.classform.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForEachForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Form1.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.JobForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.MainForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.Properties.Resources.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.ForForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StringsForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.StudentForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.subjectsform.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchForm.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.SwitchTest.resources
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.GenerateResource.cache
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe.licenses
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.CoreCompileInputs.cache
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.csproj.CopyComplete
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.exe
+E:\brojects\AmeraProject\AmeraProject\obj\Debug\AmeraProject.pdb
